@@ -1,7 +1,7 @@
 Nice.scalaProject
 
 name := "ncurses"
-organization := "ohnosequencesBundles"
+organization := "ohnosequences-bundles"
 description := "A bundle for ncurses tool"
 
 publishBucketSuffix := "era7.com"
