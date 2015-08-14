@@ -1,0 +1,3 @@
+# ncurses 0.1.0
+
+This has an install method for ncurses library
